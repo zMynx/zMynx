@@ -62,11 +62,13 @@ To see all the other badges are [here](https://www.credly.com/users/zmynx/badges
 
 <h2  align="center"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> My GitHub Stats </h2>
 
-<tr>
-<td><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api?username=zmynx&theme=dark&show_icons=true&locale=en" alt="zmynx" /></td>
-<td><img align="center" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=zmynx&theme=dark" alt="zmynx" /></td>
-<td><img align="center" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmynx&theme=dark&show_icons=true&locale=en&layout=compact" alt="zmynx" /></td>
-</tr>
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api?username=zmynx&theme=dark&show_icons=true&locale=en" alt="stats">  &nbsp; 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmynx&theme=dark" alt="strikes">  &nbsp; 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zmynx&theme=dark&show_icons=true&locale=en&layout=compact" alt="most-used">  &nbsp; 
+  </div>
+</div>
 
 ---
 
