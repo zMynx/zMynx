@@ -1,9 +1,13 @@
 name: Update Snake
 on:
   workflow_dispatch:
-  schedule: # execute everydate at 12:00 UTC
-    - cron: "* * * * *"
-    # - cron: "0 12 * * *"
+  # schedule: # execute everydate at 12:00 UTC
+  #   - cron: "0 12 * * *"
+permissions:
+  actions: write
+  checks: write
+  contents: write
+  pages: write
 jobs:
   build:
     name: Jobs to update datas
