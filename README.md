@@ -1,8 +1,8 @@
 [![Masterhead](https://res.cloudinary.com/practicaldev/image/fetch/s--xAAdUtiT--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)]()
 
 ---
-<h2 align="center">Hi 👋, I'm Lior Dux</h2>
 
+<h2 align="center">Hi 👋, I'm Lior Dux</h2>
 <h3 align="center">A passionate DevOps engineer from Israel, loves coding, automation, and self-hosting</h3>
 
 ---
