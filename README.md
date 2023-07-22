@@ -21,7 +21,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://github.com/zmynx" target="blank"><img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="zmynx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lior.dux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lior.dux" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lior-dux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lior.dux" height="30" width="40" /></a>
 <a href="https://medium.com/@lior.dux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lior.dux" height="30" width="40" /></a>
 </p>
 
