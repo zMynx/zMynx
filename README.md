@@ -64,9 +64,9 @@ To see all the other badges are [here](https://www.credly.com/users/zmynx/badges
 
 <div class="row">
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=zmynx&theme=synthwave&show_icons=true&locale=en" alt="stats" width="260">  &nbsp; 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmynx&theme=synthwave" alt="strikes" width="270">  &nbsp; 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zmynx&theme=synthwave&show_icons=true&locale=en&layout=compact" alt="most-used" width="230">  &nbsp; 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zmynx&theme=neon&show_icons=true&locale=en" alt="stats" width="260">  &nbsp; 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmynx&theme=neon" alt="strikes" width="270">  &nbsp; 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zmynx&theme=neon&show_icons=true&locale=en&layout=compact" alt="most-used" width="230">  &nbsp; 
   </div>
 </div>
 
