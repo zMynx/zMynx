@@ -21,9 +21,19 @@ blockquote {
 }
 </style>
 
-|||
+<table>
+  <tr>
+    <td><picture><img alt="views" src="https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat" /></picture><br>
+    - 🔭 I’m currently working on <a href="https://github.com/zMynx/IaC" target="blank">Infrastructure As Code</a><br>
+    - 🌱 I’m currently learning <span style="font-weight:bold">Kustomize</span><br>
+    - 📝 I regularly write articles on <a href="https://www.develeap.com/magazine/" target="blank">Develeap's Magazine</a><br>
+    - 💬 Ask me about <font color='blue'><span style="font-weight:bold""">AWS, Kubernetes, Terragrunt, Terraform, Bash</span></font></td>
+    <td><picture><img alt="Coding" src="./assets/coding.gif" /></picture></td>
+  </tr>
+</table>
+<!-- |||
 |-------------|------------------------|
-| ![](https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat)<br> - 🔭 I’m currently working on [Infrastructure As Code](https://github.com/zMynx/IaC)<br>- 🌱 I’m currently learning **Kustomize**<br>- 📝 I regularly write articles on [Develeap's Magazine](https://www.develeap.com/magazine/)<br>- 💬 Ask me about **AWS, Kubernetes, Terragrunt, Terraform, Bash** | ![Coding GIF](./assets/coding.gif)  |
+| ![](https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat)<br> - 🔭 I’m currently working on [Infrastructure As Code](https://github.com/zMynx/IaC)<br>- 🌱 I’m currently learning **Kustomize**<br>- 📝 I regularly write articles on [Develeap's Magazine](https://www.develeap.com/magazine/)<br>- 💬 Ask me about **AWS, Kubernetes, Terragrunt, Terraform, Bash** | ![Coding GIF](./assets/coding.gif)  | -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat" alt="zmynx" />
 
