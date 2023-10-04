@@ -7,14 +7,21 @@
 
 ---
 
-<table border="1" rules="none">
+<table border=1>
   <tr>
-    <td><picture><img alt="views" src="https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat" /></picture><br>
-    - 🔭 I’m currently working on <a href="https://github.com/zMynx/IaC" target="blank">Infrastructure As Code</a><br>
-    - 🌱 I’m currently learning <span style="font-weight:bold">Kustomize</span><br>
-    - 📝 I regularly write articles on <a href="https://www.develeap.com/magazine/" target="blank">Develeap's Magazine</a><br>
-    - 💬 Ask me about <font color='blue'><span style="font-weight:bold""">AWS, Kubernetes, Terragrunt, Terraform, Bash</span></font></td>
-    <td><picture><img alt="Coding" src="./assets/coding.gif" /></picture></td>
+    <td>
+
+![Profile views](https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat)
+
+- 🔭 I'm currently working on [Infrastructure As Code](https://github.com/zMynx/IaC)
+- 🌱 I'm currently learning **Kustomize**
+- 📝 I regularly write articles on [Develeap's Magazine](https://www.develeap.com/magazine/)
+- 💬 Ask me about **AWS, Kubernetes, Terragrunt, Terraform, Bash**
+
+    </td>
+    <td>
+![Coding](./assets/coding.gif)
+</td>
   </tr>
 </table>
 
