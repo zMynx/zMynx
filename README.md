@@ -7,21 +7,7 @@
 
 ---
 
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
-<style>
-table {
-  border-collapse: collapse;
-}
-table, th, td {
-  border: 1px solid black;
-}
-blockquote {
-  border-left: solid blue;
-  padding-left: 10px;
-}
-</style>
-
-<table>
+<table border="1" rules="none">
   <tr>
     <td><picture><img alt="views" src="https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat" /></picture><br>
     - 🔭 I’m currently working on <a href="https://github.com/zMynx/IaC" target="blank">Infrastructure As Code</a><br>
@@ -31,22 +17,6 @@ blockquote {
     <td><picture><img alt="Coding" src="./assets/coding.gif" /></picture></td>
   </tr>
 </table>
-<!-- |||
-|-------------|------------------------|
-| ![](https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat)<br> - 🔭 I’m currently working on [Infrastructure As Code](https://github.com/zMynx/IaC)<br>- 🌱 I’m currently learning **Kustomize**<br>- 📝 I regularly write articles on [Develeap's Magazine](https://www.develeap.com/magazine/)<br>- 💬 Ask me about **AWS, Kubernetes, Terragrunt, Terraform, Bash** | ![Coding GIF](./assets/coding.gif)  | -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmynx&label=Profile%20views&color=0e75b6&style=flat" alt="zmynx" />
-
-- 🔭 I’m currently working on [Infrastructure As Code](https://github.com/zMynx/IaC)
-
-- 🌱 I’m currently learning **Kustomize**
-
-- 📝 I regularly write articles on [Develeap's Magazine](https://www.develeap.com/magazine/)
-
-- 💬 Ask me about **AWS, Kubernetes, Terragrunt, Terraform, Bash**
-
-</p>
-<img src="./assest/coding.gif" alt="zmynx" width="500"/> -->
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
