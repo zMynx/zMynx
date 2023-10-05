@@ -75,7 +75,7 @@
 
 <h2  align="center"><img src = "https://cliply.co/wp-content/uploads/2021/02/392102940_MEDAL_3D_400px.gif" width="40"> My Last badges </h2>
 
-To see all the other badges are [here](https://www.credly.com/users/zmynx/badges)
+To see all the other badges are [here](https://www.credly.com/users/lior-dux)
 
 <p align="center">
 
