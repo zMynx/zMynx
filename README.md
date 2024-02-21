@@ -67,6 +67,7 @@
 
 <h2  align="center"><img src = "https://www.bootgum.com/wp-content/uploads/2018/06/Bootgum-NewBadgeWatermarked550.gif" width="30"> Latest Blog Posts </h2>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@lior.dux/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@lior.dux/0" alt="Recent Article 0">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@lior.dux/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@lior.dux/0" alt="Recent Article 1">
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
