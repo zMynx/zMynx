@@ -83,12 +83,12 @@ To see all the other badges are [here](https://www.credly.com/users/lior-dux)
 <p align="center">
 
 <!--START_SECTION:badges-->
-
+[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/59217c08-8120-4af4-9eb6-c4dd9ac1b413 "GitOps at Scale")
+[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/b2952b21-ff5d-4c26-a2fa-629df4ab1373 "GitOps Fundamentals")
 [![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://www.credly.com/badges/84b98d14-648f-4424-8d80-2792cb71818b "AWS Certified Security – Specialty")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](http://www.credly.com/badges/02ed188d-6d6c-4b90-abba-de336d141256 "HashiCorp Certified: Terraform Associate (003)")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/ff7ee15e-a9e9-43e3-9d0f-8eec2c96079d "AWS Certified Solutions Architect – Associate")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/b97de219-0d95-4b68-a547-3f8a3ed8498d "CKA: Certified Kubernetes Administrator")
-
 <!--END_SECTION:badges-->
 
 </p>
